@@ -31,7 +31,7 @@
     "Desc": "I was one of four team members who designed and built a FPV drone. We used a software called Betaflight to program it, and desgined a custom 3D printed chassis. The automaticly stabalizing camera was done through legacy features in Betaflight.",
     "GitHubRepo": "https://github.com",
     "MainImage": "Screenshot 2025-12-07 163113.png",
-    "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
+    "DetailImages": []
   },
   "Project2": {
     "Title": "Mobile Electronic Construction Sign",
