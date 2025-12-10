@@ -1,16 +1,16 @@
 {
 "About": {
   "Name": "Isaac J. Fuchs",
-  "Currently": "Computer Engineering Student ",
+  "Currently": "Computer Engineering Student",
   "Headshot": "Isaacpick4.jpg",
   "Thumbnail": "Isaacpick4.jpg",
-  "AboutText": "Hello, I am Isaac Fuchs. I am currently a computer engineering student at Seattle Pacific University. I am focused on learning physical electronics and various coding languages. I have experience using both Multisim and LTspice for circuit simulation."
+  "AboutText": "Hello, I am Isaac Fuchs. I am a computer engineering student at Seattle Pacific University. I am focused on learning physical electronics and various python based coding languages."
 },
 "Contact": {
   "EMail": "fuchsi@spu.edu",
-  "Phone": "https://www.linkedin.com/in/isaac-fuchs/",
+  "Phone": "(509) 862-9776",
   "Portfolio": "https://isaac-fuchs.github.io/Isaac_Fuchs_Portfolio.github.io/index.html",
-  "LinkedIn": "https://www.linkedin.com/in/isaac-fuchs/"
+  "LinkedIn": "https://www.linkedin.com/in/isaac-fuchs/",
   "GitHub": "https://github.com/Isaac-Fuchs"
 },
 "Experience": {
@@ -22,7 +22,7 @@
   "Employment": "Sudexo ",
   "Role": "Catering Staff Member",
   "EmploymentText": "I have worked a large varriety of jobs, from lifeguarding to being a caretaker at a child care center. From my past jobs I have learned to handle difficult schedules and conflicts with other employees. At my current job I am responcible for setting up the majority of exents.",
-  "Skills": ["Circuit python", " Java", " Micropython", " Circuit design and analysis", "LTspice", "Multisim"],
+  "Skills": ["Circuit python", " Java", " Micropython", " Circuit design and analysis"],
   "SkillsText": "Outside of employment related skills I play chess at a relativly high level, I am CPR certified, and I am an eagle scout.",
   "Resume": "Isaac Fuchs Resume (1).pdf"  
 },
